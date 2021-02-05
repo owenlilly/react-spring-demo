@@ -50,7 +50,7 @@ function SlideTogglable() {
 
     return (
         <StylePage>
-            <h1>Click Button Toggle</h1>
+            <h1>Click Button To Toggle</h1>
             <SlideToggle isVisible={isVisible}>
             <StyledList>
                 {
